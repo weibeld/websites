@@ -19,3 +19,15 @@ A collection of cool website designs.
 <a href="https://www.openpolicyagent.org/">![Open Policy Agent](assets/openpolicyagent.png)</a>
 
 <https://www.openpolicyagent.org/> | 2020-09-10
+
+## K3s
+
+<a href="https://k3s.io/">![K3s](assets/k3s.png)</a>
+
+<https://www.k3s.io/> | 2020-09-12
+
+## ChartMuseum
+
+<a href="https://chartmuseum.com/">![ChartMuseum](assets/chartmuseum.png)</a>
+
+<https://chartmuseum.com/> | 2020-09-15
