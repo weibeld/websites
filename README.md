@@ -38,4 +38,9 @@ A collection of cool website designs.
 
 <https://buildkite.com/> | 2020-09-16
 
+## GitLab
+
+<a href="https://about.gitlab.com/">![GitLab](assets/gitlab.png)</a>
+
+<https://about.gitlab.com/> | 2020-09-16
 
