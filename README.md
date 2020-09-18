@@ -49,3 +49,9 @@ A collection of cool website designs.
 <a href="https://www.aquasec.com/">![Aqua](assets/aqua.png)</a>
 
 <https://https://www.aquasec.com/> | 2020-09-16
+
+## DigitalOcean
+
+<a href="https://www.digitalocean.com/">![DigitalOcean](assets/digitalocean.png)</a>
+
+<https://www.digitalocean.com/> | 2020-09-18
