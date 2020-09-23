@@ -61,3 +61,9 @@ A collection of cool website designs.
 <a href="https://spring.io/">![Spring](assets/spring.png)</a>
 
 <https://spring.io/> | 2020-09-23
+
+## Atlassian
+
+<a href="https://www.atlassian.com/">![Atlassian](assets/atlassian.png)</a>
+
+<https://www.atlassian.com/> | 2020-09-23
