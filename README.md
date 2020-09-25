@@ -67,3 +67,9 @@ A collection of cool website designs.
 <a href="https://www.atlassian.com/">![Atlassian](assets/atlassian.png)</a>
 
 <https://www.atlassian.com/> | 2020-09-23
+
+## Traefik Labs
+
+<a href="https://traefik.io/">![Traefik Labs](assets/traefik-labs.png)</a>
+
+<https://traefik.io/> | 2020-09-25
