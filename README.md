@@ -79,3 +79,9 @@ A collection of cool website designs.
 <a href="https://projectcontour.io/">![Contour](assets/contour.png)</a>
 
 <https://projectcontour.io/> | 2020-09-26
+
+## CloudEvents
+
+<a href="https://cloudevents.io/">![CloudEvents](assets/cloudevents.png)</a>
+
+<https://cloudevents.io/> | 2020-09-26
